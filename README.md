@@ -5,7 +5,7 @@ Ce projet consiste à concevoir un site (CV ) en utilisant ReactJS et Bootsrap.
 
 
 ## Application
-Vous pouvez trouver le site sur ce lien: [http://192.168.69.35:3000/](http://192.168.69.35:3000/)
+Vous trouverez le site sur ce lien: (https://mauricette-g.github.io/cv-react-site/)
 
 ## Pré-requis
 
