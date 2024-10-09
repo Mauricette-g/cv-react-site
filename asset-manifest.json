@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Mauricette-g/cv-react-site/static/css/main.103ef27c.css",
-    "main.js": "/Mauricette-g/cv-react-site/static/js/main.1db1032e.js",
-    "static/js/453.128b645b.chunk.js": "/Mauricette-g/cv-react-site/static/js/453.128b645b.chunk.js",
-    "static/media/background.jpg": "/Mauricette-g/cv-react-site/static/media/background.cd690c5ecd92bc218064.jpg",
-    "index.html": "/Mauricette-g/cv-react-site/index.html",
-    "main.103ef27c.css.map": "/Mauricette-g/cv-react-site/static/css/main.103ef27c.css.map",
-    "main.1db1032e.js.map": "/Mauricette-g/cv-react-site/static/js/main.1db1032e.js.map",
-    "453.128b645b.chunk.js.map": "/Mauricette-g/cv-react-site/static/js/453.128b645b.chunk.js.map"
+    "main.css": "/cv-react-site/static/css/main.d2703141.css",
+    "main.js": "/cv-react-site/static/js/main.f6bb45b0.js",
+    "static/js/453.128b645b.chunk.js": "/cv-react-site/static/js/453.128b645b.chunk.js",
+    "static/media/background.jpg": "/cv-react-site/static/media/background.cd690c5ecd92bc218064.jpg",
+    "index.html": "/cv-react-site/index.html",
+    "main.d2703141.css.map": "/cv-react-site/static/css/main.d2703141.css.map",
+    "main.f6bb45b0.js.map": "/cv-react-site/static/js/main.f6bb45b0.js.map",
+    "453.128b645b.chunk.js.map": "/cv-react-site/static/js/453.128b645b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.103ef27c.css",
-    "static/js/main.1db1032e.js"
+    "static/css/main.d2703141.css",
+    "static/js/main.f6bb45b0.js"
   ]
 }
